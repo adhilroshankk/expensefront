@@ -1,1 +1,1 @@
-export const base_url="http://localhost:8006"
+export const base_url="https://expenseback-2.onrender.com"
